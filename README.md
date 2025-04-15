@@ -1,6 +1,8 @@
 # CommerceCalc-
 💰 CommerceCalc - Smart Discount Calculator Web App Maximize savings with this feature-rich discount calculator built with modern JavaScript, HTML5 &amp; CSS3
 
+Live Demo : https://arunkambrekar.github.io/CommerceCalc-/
+
 This isn't just another calculator - it's a complete e-commerce toolkit that demonstrates my full-stack capabilities:
 
 ✨ Key Features That Showcase My Skills
